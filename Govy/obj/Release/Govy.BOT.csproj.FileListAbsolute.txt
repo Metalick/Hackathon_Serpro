@@ -1,0 +1,50 @@
+F:\repositorios\Govy\Dev\Govy\bin\Bot Application1.dll.config
+F:\repositorios\Govy\Dev\Govy\bin\Bot Application1.dll
+F:\repositorios\Govy\Dev\Govy\bin\Bot Application1.pdb
+F:\repositorios\Govy\Dev\Govy\bin\Autofac.dll
+F:\repositorios\Govy\Dev\Govy\bin\Chronic.dll
+F:\repositorios\Govy\Dev\Govy\bin\Govy.Domain.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Bot.Builder.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Bot.Connector.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.ProjectOxford.Vision.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Rest.ClientRuntime.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Web.Infrastructure.dll
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\repositorios\Govy\Dev\Govy\bin\MongoDB.Bson.dll
+F:\repositorios\Govy\Dev\Govy\bin\MongoDB.Driver.dll
+F:\repositorios\Govy\Dev\Govy\bin\MongoRepository.Net45.dll
+F:\repositorios\Govy\Dev\Govy\bin\Newtonsoft.Json.dll
+F:\repositorios\Govy\Dev\Govy\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\repositorios\Govy\Dev\Govy\bin\System.Net.Http.Formatting.dll
+F:\repositorios\Govy\Dev\Govy\bin\System.Web.Http.dll
+F:\repositorios\Govy\Dev\Govy\bin\System.Web.Http.WebHost.dll
+F:\repositorios\Govy\Dev\Govy\bin\Govy.Domain.pdb
+F:\repositorios\Govy\Dev\Govy\bin\Autofac.xml
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Bot.Builder.xml
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Bot.Connector.xml
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.Rest.ClientRuntime.xml
+F:\repositorios\Govy\Dev\Govy\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\repositorios\Govy\Dev\Govy\bin\MongoDB.Bson.xml
+F:\repositorios\Govy\Dev\Govy\bin\MongoDB.Driver.xml
+F:\repositorios\Govy\Dev\Govy\bin\MongoRepository.Net45.xml
+F:\repositorios\Govy\Dev\Govy\bin\Newtonsoft.Json.xml
+F:\repositorios\Govy\Dev\Govy\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\repositorios\Govy\Dev\Govy\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\repositorios\Govy\Dev\Govy\bin\System.Net.Http.Formatting.xml
+F:\repositorios\Govy\Dev\Govy\bin\System.Web.Http.xml
+F:\repositorios\Govy\Dev\Govy\bin\System.Web.Http.WebHost.xml
+F:\repositorios\Govy\Dev\Govy\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\repositorios\Govy\Dev\Govy\obj\Release\Govy.BOT.csprojResolveAssemblyReference.cache
+F:\repositorios\Govy\Dev\Govy\obj\Release\Bot Application1.dll
+F:\repositorios\Govy\Dev\Govy\obj\Release\Bot Application1.pdb

@@ -1,0 +1,15 @@
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Govy.Domain.dll.config
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Govy.Domain.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Govy.Domain.pdb
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoDB.Bson.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoDB.Driver.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoRepository.Net45.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoDB.Bson.xml
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoDB.Driver.xml
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\MongoRepository.Net45.xml
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Debug\Govy.Domain.dll
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Debug\Govy.Domain.pdb
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Newtonsoft.Json.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Debug\Newtonsoft.Json.xml
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Debug\Govy.Domain.csprojResolveAssemblyReference.cache

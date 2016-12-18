@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MongoServerSettings-Web.config Connection String" description="MongoServerSettings Connection String used in web.config by the application to access the database." defaultValue="mongodb://45.55.183.211:27017/Govy" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\repositorios\\Govy\\Dev\\Govy\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MongoServerSettings']/@connectionString" />
+  </parameter>
+</parameters>

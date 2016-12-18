@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Govy.BOT", "Govy\Govy.BOT.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Govy.Domain", "Govy.Domain\Govy.Domain.csproj", "{9019C31C-5413-48DB-B133-8C48BBB6FB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Govy.Portal", "Govy.Portal\Govy.Portal.csproj", "{F663FAC1-DD0E-4DFB-B81B-E8249D66BEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9019C31C-5413-48DB-B133-8C48BBB6FB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9019C31C-5413-48DB-B133-8C48BBB6FB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9019C31C-5413-48DB-B133-8C48BBB6FB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9019C31C-5413-48DB-B133-8C48BBB6FB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F663FAC1-DD0E-4DFB-B81B-E8249D66BEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F663FAC1-DD0E-4DFB-B81B-E8249D66BEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F663FAC1-DD0E-4DFB-B81B-E8249D66BEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F663FAC1-DD0E-4DFB-B81B-E8249D66BEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luizdiogo.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Govy\\Govy.BOT.csproj
+		SccProjectName1 = Govy
+		SccLocalPath1 = Govy
+		SccProjectUniqueName2 = Govy.Domain\\Govy.Domain.csproj
+		SccProjectName2 = Govy.Domain
+		SccLocalPath2 = Govy.Domain
+		SccProjectUniqueName3 = Govy.Portal\\Govy.Portal.csproj
+		SccProjectName3 = Govy.Portal
+		SccLocalPath3 = Govy.Portal
+	EndGlobalSection
+EndGlobal

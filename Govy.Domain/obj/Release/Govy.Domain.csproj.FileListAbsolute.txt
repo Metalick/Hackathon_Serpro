@@ -1,0 +1,15 @@
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Govy.Domain.dll.config
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Govy.Domain.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Govy.Domain.pdb
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoDB.Bson.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoDB.Driver.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoRepository.Net45.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoDB.Bson.xml
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoDB.Driver.xml
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\MongoRepository.Net45.xml
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Release\Govy.Domain.csprojResolveAssemblyReference.cache
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Release\Govy.Domain.dll
+F:\repositorios\Govy\Dev\Govy.Domain\obj\Release\Govy.Domain.pdb
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Microsoft.ProjectOxford.Vision.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Newtonsoft.Json.dll
+F:\repositorios\Govy\Dev\Govy.Domain\bin\Release\Newtonsoft.Json.xml
